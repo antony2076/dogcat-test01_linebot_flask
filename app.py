@@ -11,10 +11,10 @@ from keras.preprocessing import image
 
 app = Flask(__name__)
 
-ACCESS_TOKEN = "Sdr1mE+hoLx7RXtdreaAegInEBX33ktIrmNbvCG3bj64ELcpMWzJP7KfbgCK8voTTEvWdb/scFfYSaIeUaUUNocxDUAbb+rwoZBphwVpRF/mhlE+bt3dGrQ/5rlTY2+IhwwoWTpdHdr7v1CbJ7AeEgdB04t89/1O/w1cDnyilFU="
-SECRET = "d1fec2f308c69fe2ff66481137cd3d64"
+ACCESS_TOKEN = "91F97TEl4XRd8yG8UJ5QjYfyBTplKVO6OAbdW9fAXbblrvjb / 8LMHJ94xBt7MXTyovlzlW9aTzFy8W / PkvlzajWQG1fbRxCdKRTzF + e5F / qbkMUpbkgq7Re"91F97TEl4XRd8yG8UJ5QjYfyBTplKVO6OAbdW9fAXbblrvjb / 8LMHJ94xBt7MXTyovlzlW9aTzFy8W / PkvlzajWQG1fbRxCdKRTzF + e5F / qbkMUpbkgq7Re
+SECRET = "94e8ecf70fc670b4680295658568d45e"
 
-FQDN = "https://dogcat-test.herokuapp.com"
+FQDN = "https://test-melon-dogcat.herokuapp.com"
 
 
 line_bot_api = LineBotApi(ACCESS_TOKEN)
